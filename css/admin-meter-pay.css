@@ -1,0 +1,36 @@
+.mt-description {
+    width: 60%;
+    min-width: 400px;
+}
+
+.mt-description p {
+    line-height: 1.6;
+}
+
+h2.mt-settings-subtitle {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.mt-divider {
+    margin: 20px 0 30px 0;
+}
+
+.mt-form .form-table th {
+    line-height: 25px;
+    padding: 10px 10px 10px 0;
+    vertical-align: inherit;
+}
+
+.mt-form .form-table td {
+    padding: 10px 10px 10px 0;
+}
+
+.mt-form input, .mt-form select {
+    padding: 2px 10px;
+    min-width: 100px;
+}
+
+.mt-form input[type=submit] {
+    padding: 2px 14px;
+}

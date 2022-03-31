@@ -1,0 +1,32 @@
+.meter-payment-button {
+    display: block;
+    margin: auto;
+}
+
+.mt-error {
+    color: #bc0b0b;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.mt-sent {
+    display: block;
+    color: #056605;
+    text-align: center;
+}
+
+.mt-logout {
+    display: none;
+    text-align: center;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 0 3px 3px 3px;
+}
+
+.mt-logout.visible {
+    display: block;
+}
+
+.mt-logout:hover {
+    text-decoration: underline;
+}
